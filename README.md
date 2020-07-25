@@ -1,4 +1,4 @@
-### Hi there👋 <img src="https://camo.githubusercontent.com/75dc1c8b7e5ab93cc6a6f22cdd58e8f8384245cc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" style="zoom:10%;" >
+<h2> Hi there👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 I am Cindy! I am an incoming MS student in Software Engineering at UC, Irvine. I have a great passion for Big Data and Machine Learning challenges. Also, I have just started tech-blogging! 
 
