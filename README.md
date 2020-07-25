@@ -2,17 +2,20 @@
 
 I am Cindy! I am an incoming MS student in Software Engineering at UC, Irvine. I have a great passion for Big Data and Machine Learning challenges. Also, I have just started tech-blogging! 
 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+- 🌱 Mixed Background: B.S. Mathematics, B.S. Economics and M.S. Software Engineering.
 - 👨🏽‍💻 Current work in deep learning and natural language processing. 
 - 🤝 Trying to contribute more in deep learning, analytics and data science.
 - 🌐 Visit my [porfolio website](https://nobugs.dev/) for complete background and contact.
 - ✨ Actively finding 2021 Summer Internship at U.S. & China.
 
-<p align = "center">
+<p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samaritanhu&hide=CSS,HTML&theme=tokyonight">
   <img src = "https://github-readme-stats.vercel.app/api?username=samaritanhu&show_icons=true&theme=radical&line_height=27">
 </p>
 
-**Show ❤️ by starring repositories you find good. Also, star and fork this repo if you like to give new feature a try!** 
+
 
 
 
@@ -31,4 +34,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- Show ❤️ by starring repositories you find good. Also, star and fork this repo if you like to give new feature a try!
 -->
