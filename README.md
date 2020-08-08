@@ -10,11 +10,6 @@ I am Cindy! I am an incoming MS student in Software Engineering at UC, Irvine. I
 - 🌐 Visit my [porfolio website](https://nobugs.dev/) for complete background and contact.
 - ✨ Actively finding 2021 Summer Internship at U.S. & China.
 
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samaritanhu&hide=CSS,HTML,C++&theme=default">
-  <img src = "https://github-readme-stats.vercel.app/api?username=samaritanhu&show_icons=true&theme=default&line_height=27">
-</p>
-
 
 
 
