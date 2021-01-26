@@ -4,7 +4,7 @@ I am Cindy! I am a first-year MS student in Software Engineering at UC, Irvine. 
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-- 🌱 Mixed Background: B.S. Mathematics, B.S. Finance and M.S. Software Engineering.
+- 🌱 Mixed Background: B.S. Mathematics, B.A. Finance and M.S. Software Engineering.
 - 👨🏽‍💻 Current work in deep learning and natural language processing. 
 - 🤝 Trying to contribute more in deep learning, analytics and data science.
 - 🌐 Visit my [porfolio website](https://nobugs.dev/) for complete background and contact.
