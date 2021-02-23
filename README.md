@@ -8,7 +8,7 @@ I am Cindy! I am a first-year MS student in Software Engineering at UC, Irvine. 
 - 👨🏽‍💻 Current work in deep learning and natural language processing. 
 - 🤝 Trying to contribute more in deep learning, analytics and data science.
 - 🌐 Visit my [porfolio website](https://nobugs.dev/) for complete background and contact.
-- ✨ Actively finding 2021 Full-time Opportunites at U.S. & China.
+- ✨ Actively finding 2022 Full-time Opportunites at U.S. & China.
 
 
 
