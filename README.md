@@ -7,7 +7,7 @@ I am Cindy! I am a first-year MS student in Software Engineering. I have a great
 - 🌱 Mixed Background: B.S. Mathematics, B.A. Finance and M.S. Software Engineering.
 - 👨🏽‍💻 Current work in deep learning and natural language processing.  
 - 🤝 Trying to contribute more in deep learning, analytics and data science.
-- 🌐 Visit my [porfolio website](https://nobugs.dev/) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://samaritanhu.github.io/) for complete background and contact.
 - ✨ Actively finding 2022 Full-time Opportunites at U.S. & China.
 
 
