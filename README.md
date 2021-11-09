@@ -1,6 +1,6 @@
 <h2> Hi there👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-I am Cindy! I am a first-year MS student in Information Security at CMU. I have a great passion for Big Data and Machine Learning challenges. Also, I have just started tech-blogging! 
+I am Samaritan! I am a first-year MS student in Information Security at CMU. I have a great passion for Big Data and Machine Learning challenges. Also, I have just started tech-blogging! 
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
@@ -8,7 +8,7 @@ I am Cindy! I am a first-year MS student in Information Security at CMU. I have 
 - 👨🏽‍💻 Current work in deep learning and natural language processing.  
 - 🤝 Trying to contribute more in deep learning, analytics and data science.
 - 🌐 Visit my [porfolio website](https://samaritanhu.github.io/) for complete background and contact.
-- ✨ Actively finding 2022 Internship Opportunites at U.S..
+- ✨ A rising start-up software engineer intern in California next summer!
 
 
 
