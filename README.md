@@ -8,7 +8,7 @@ I am Samaritan! I am a first-year MS student in Information Security at CMU. I h
 - 👨🏽‍💻 Current work in deep learning and natural language processing.  
 - 🤝 Trying to contribute more in deep learning, analytics and data science.
 - 🌐 Visit my [porfolio website](https://samaritanhu.github.io/) for complete background and contact.
-- ✨ A rising start-up software engineer intern in California next summer!
+- ✨ A 🌎 software engineer intern in California next summer! 
 
 
 
