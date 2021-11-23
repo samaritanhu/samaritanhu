@@ -5,8 +5,8 @@ I am Samaritan! I am a first-year MS student in Information Security at Carnegie
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 - 🌱 Mixed Background: B.S. Mathematics, B.A. Finance and M.S. Information Security.
-- 👨🏽‍💻 Current work in natural language processing and privacy security.  
-- 🤝 Trying to contribute more in documentations and programming problems in security.
+- 👨🏽‍💻 Current work in natural language processing and privacy security engineering.  
+- 🤝 Trying to contribute more in documentations and programming problems.
 - 🌐 Visit my [porfolio website](https://samaritanhu.github.io/) for complete background and contact.
 - ✨ A software engineer intern in California next summer! 
 
