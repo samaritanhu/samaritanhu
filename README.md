@@ -1,6 +1,6 @@
 <h2> Hi there👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-I am Samaritan! I am a first-year MS student in Information Security at Carnegie Mellon University. I am suffering in system and security problems. Before joining Carnegie Mellon, I worked on Document Layout Analysis in Natural Language Processing, and planned to continue my research next semester. 
+I am Samaritan! I am a MS student at Carnegie Mellon University. I am suffering in system problems. Before joining Carnegie Mellon, I worked on Document Layout Analysis in Natural Language Processing, and planned to continue my research next semester. 
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
