@@ -7,7 +7,7 @@ I am Samaritan! I am a MS student at Carnegie Mellon University. Before joining 
 - 🌱 Mixed Background: B.S. Mathematics, B.A. Finance and M.S. Information Security.
 - 👨🏽‍💻 Current work in natural language processing and privacy security engineering.  
 - 🤝 Trying to contribute more in documentations and programming problems.
-- 🌐 Visit my [porfolio website](https://samaritanhu.github.io/) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://www.fuma.dev/) for complete background and contact.
 - ✨ A software engineer intern in California next summer! 
 
 
