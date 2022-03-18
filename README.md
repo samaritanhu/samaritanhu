@@ -8,7 +8,7 @@ I am Samaritan! I am a MS student at Carnegie Mellon University. Before joining 
 - 👨🏽‍💻 Current work in Natural Language Processing, Image Captioning (maybe?) and usable privacy & security.  
 - 🤝 Trying to contribute more in documentations and programming problems.
 - 🌐 Visit my [porfolio website](https://www.fuma.dev/) for complete background and contact.
-- ✨ A software engineer intern in California next summer! 
+- ✨ A software engineer intern in California this summer! 
 
 
 
