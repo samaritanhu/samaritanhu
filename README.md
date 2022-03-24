@@ -5,7 +5,7 @@ I am Samaritan! I am a MS student at Carnegie Mellon University. Before joining 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 - 🌱 Mixed Background: B.S. Mathematics, B.A. Finance and M.S. Information Security.
-- 👨🏽‍💻 Current work in Natural Language Processing, Image Captioning (maybe?) and usable privacy & security.  
+- 👨🏽‍💻 Current work in Natural Language Processing, and usable privacy & security.  
 - 🤝 Trying to contribute more in documentations and programming problems.
 - 🌐 Visit my [porfolio website](https://www.fuma.dev/) for complete background and contact.
 - ✨ A software engineer intern in California this summer! 
