@@ -1,14 +1,14 @@
 <h2> Hi there👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-I am Samaritan! I am a MS student at Carnegie Mellon University. Before joining Carnegie Mellon, I worked on Document Layout Analysis in Natural Language Processing. 
+I am Samaritan! I am a MS student at Carnegie Mellon University. 
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 - 🌱 Mixed Background: B.S. Mathematics, B.A. Finance and M.S. Information Security.
 - 👨🏽‍💻 Current work in Natural Language Processing, and usable privacy & security.  
-- 🤝 Trying to contribute more in documentations and programming problems.
-- 🌐 Visit my [porfolio website](https://www.fuma.dev/) for complete background and contact.
-- ✨ A software engineer intern in California this summer! 
+<!-- - 🤝 Trying to contribute more in documentations and programming problems. -->
+<!-- - 🌐 Visit my [porfolio website](https://www.fuma.dev/) for complete background and contact. -->
+<!-- - ✨ A software engineer intern in California this summer!  -->
 
 
 
