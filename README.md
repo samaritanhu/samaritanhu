@@ -1,8 +1,12 @@
 <h2> Hi there👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<!-- I am Samaritan! I am a MS student at Carnegie Mellon University.  -->
+I am Samaritan! Graduated from Carnegie Mellon University, my virtual identity is on https://github.com/sfc-gh-xjiang. 
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+- 🌱 You may wonder what I am doing right now.
+- Currently a creative writing student at Stanford University. Worked on playwright (2024), short story (2025), and currently fiction writing. 
+- Please find me at LinkedIn: https://www.linkedin.com/in/xinyi-cindy-hu/
 
 <!-- - 🌱 Mixed Background: B.S. Mathematics, B.A. Finance and M.S. Information Security.
 - 👨🏽‍💻 Current work in Natural Language Processing, and usable privacy & security.   -->
