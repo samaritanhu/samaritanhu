@@ -4,7 +4,7 @@ I am Xinyi! Graduated from [Carnegie Mellon University](https://www.cmu.edu/ini/
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-- 🌱 Since you clicked into my profile... You may wonder what I am doing right now.
+🌱 Since you clicked into my profile... You may wonder what I am doing right now.
 - My background lies in Math, Finance, and Information Security... 
 - I'm currently a part-time creative writing student at Stanford University. Worked on playwright (2024 Spring), short story (2025 Spring), and currently fiction writing (2025 Summer). 
 - Connect with me? Please find me at LinkedIn: https://www.linkedin.com/in/xinyi-cindy-hu/
