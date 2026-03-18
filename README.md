@@ -1,6 +1,6 @@
 <h2> Hi there👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-I am Xinyi! Graduated from [Carnegie Mellon University](https://www.cmu.edu/ini/)
+I am Samaritan! Graduated from [Carnegie Mellon University](https://www.cmu.edu/ini/)
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
@@ -8,11 +8,12 @@ I am Xinyi! Graduated from [Carnegie Mellon University](https://www.cmu.edu/ini/
 - My background lies in Math, Finance, and Computer Science... 
 - I'm currently a part-time creative writing student at Stanford University. Worked on playwright (2024 Spring), short story (2025 Spring), fiction writing (2025 Summer), and currently poetry... 
 - Connect with me? Please find me at LinkedIn: https://www.linkedin.com/in/xinyi-cindy-hu/
-
+- 🌐 Visit my [porfolio website](https://www.fuma.dev/) for complete background and contact.
+- 
 <!-- - 🌱 Mixed Background: B.S. Mathematics, B.A. Finance and M.S. Information Security.
 - 👨🏽‍💻 Current work in Natural Language Processing, and usable privacy & security.   -->
 <!-- - 🤝 Trying to contribute more in documentations and programming problems. -->
-<!-- - 🌐 Visit my [porfolio website](https://www.fuma.dev/) for complete background and contact. -->
+<!--  -->
 <!-- - ✨ A software engineer intern in California this summer!  -->
 
 
